@@ -12,7 +12,9 @@ Danny Cooper - intern
 ## packagages used
 
 mfr_sim
-torch 
+
+torch
+
 lightning 
 
 
